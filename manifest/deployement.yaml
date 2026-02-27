@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: java-application
+  name: java-applications
   namespace: argocd-demo
   labels:
     app: java-maven-app
