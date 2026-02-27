@@ -1,0 +1,48 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: java-applications
+  namespace: pipe
+  labels:
+    app: java-maven-app
+spec:
+  strategy:
+    type: RollingUpdate
+    rollingUpdate:
+      
+      maxUnavailable: 1  # maximum number of pods unavailable
+      maxSurge: 2  # maximum number of pods that can created above than rs
+  replicas: 2
+  selector:
+    matchLabels:
+      app: java-maven-app
+  template:
+    metadata:
+      labels:
+        app: java-maven-app
+    spec:
+      containers:
+        - name: java-maven-app
+          image: 222575804024.dkr.ecr.us-east-1.amazonaws.com/rtc/tomcat-warimg:6
+          imagePullPolicy: IfNotPresent
+          ports:
+            - containerPort: 8080
+          resources:
+            requests:
+              cpu: "250m"
+              memory: "512Mi"
+            limits:
+              cpu: "500m"
+              memory: "1024Mi"
+          livenessProbe:
+            httpGet:
+              path: /
+              port: 8080
+            initialDelaySeconds: 6
+            periodSeconds: 15
+          readinessProbe:
+            httpGet:
+              path: /
+              port: 8080
+            initialDelaySeconds: 30
+            periodSeconds: 10
