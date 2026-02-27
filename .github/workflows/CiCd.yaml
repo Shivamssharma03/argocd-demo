@@ -21,6 +21,11 @@ jobs:
 
 
     steps:
+      - name: List files
+        run: |
+            pwd
+              ls -la
+              ls -la k8s
       - name: Checkout code
         uses: actions/checkout@v4
 
