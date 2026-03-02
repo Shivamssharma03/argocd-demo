@@ -78,7 +78,7 @@ jobs:
       - name: Update image tag
         run: |
           IMAGE_TAG=${{ github.run_number }}
-          sed -i "s|rtc/tomcat-warimg:.*|rtc/tomcat-warimg:${IMAGE_TAG}|g" k8s/deployment.yml
+          sed -i "s|rtc/tomcat-warimg:.*|rtc/tomcat-warimg:${IMAGE_TAG}|g" k8s/deplyoment.yml
 
       - name: Commit & Push changes
         run: |
