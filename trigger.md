@@ -1,3 +1,3 @@
 # Workflow Trigger
 
-Trigger count: 2
+Trigger count: 3
