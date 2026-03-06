@@ -27,25 +27,25 @@ spec:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-          image: 222575804024.dkr.ecr.us-east-1.amazonaws.com/rtc/tomcat-warimg:25
+          image: 222575804024.dkr.ecr.us-east-1.amazonaws.com/rtc/tomcat-warimg:27
 =======
-          image: 222575804024.dkr.ecr.us-east-1.amazonaws.com/rtc/tomcat-warimg:25
+          image: 222575804024.dkr.ecr.us-east-1.amazonaws.com/rtc/tomcat-warimg:27
 >>>>>>> Stashed changes
 =======
-          image: 222575804024.dkr.ecr.us-east-1.amazonaws.com/rtc/tomcat-warimg:25
+          image: 222575804024.dkr.ecr.us-east-1.amazonaws.com/rtc/tomcat-warimg:27
 >>>>>>> Stashed changes
 =======
-          image: 222575804024.dkr.ecr.us-east-1.amazonaws.com/rtc/tomcat-warimg:25
+          image: 222575804024.dkr.ecr.us-east-1.amazonaws.com/rtc/tomcat-warimg:27
 =======
-          image: 222575804024.dkr.ecr.us-east-1.amazonaws.com/rtc/tomcat-warimg:26
+          image: 222575804024.dkr.ecr.us-east-1.amazonaws.com/rtc/tomcat-warimg:27
 =======
-          image: 222575804024.dkr.ecr.us-east-1.amazonaws.com/rtc/tomcat-warimg:26
+          image: 222575804024.dkr.ecr.us-east-1.amazonaws.com/rtc/tomcat-warimg:27
 >>>>>>> Stashed changes
 =======
-          image: 222575804024.dkr.ecr.us-east-1.amazonaws.com/rtc/tomcat-warimg:26
+          image: 222575804024.dkr.ecr.us-east-1.amazonaws.com/rtc/tomcat-warimg:27
 >>>>>>> Stashed changes
 =======
-          image: 222575804024.dkr.ecr.us-east-1.amazonaws.com/rtc/tomcat-warimg:26
+          image: 222575804024.dkr.ecr.us-east-1.amazonaws.com/rtc/tomcat-warimg:27
 >>>>>>> Stashed changes
 >>>>>>> Stashed changes
           imagePullPolicy: IfNotPresent
