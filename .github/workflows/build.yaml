@@ -26,3 +26,7 @@ jobs:
 
       - name: Verify WAR file
         run: ls -l target
+
+
+      - name: Force failure
+        run: exit 1
