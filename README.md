@@ -8,9 +8,4 @@
 
 
 
-
-
-
-
-
-jihug
+this is demo repo
