@@ -30,6 +30,7 @@ spec:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
           image: 222575804024.dkr.ecr.us-east-1.amazonaws.com/rtc/tomcat-warimg:30
 =======
           image: 222575804024.dkr.ecr.us-east-1.amazonaws.com/rtc/tomcat-warimg:30
@@ -151,6 +152,68 @@ spec:
 >>>>>>> Stashed changes
 =======
           image: 222575804024.dkr.ecr.us-east-1.amazonaws.com/rtc/tomcat-warimg:31
+>>>>>>> Stashed changes
+=======
+          image: 222575804024.dkr.ecr.us-east-1.amazonaws.com/rtc/tomcat-warimg:32
+=======
+          image: 222575804024.dkr.ecr.us-east-1.amazonaws.com/rtc/tomcat-warimg:32
+>>>>>>> Stashed changes
+=======
+          image: 222575804024.dkr.ecr.us-east-1.amazonaws.com/rtc/tomcat-warimg:32
+>>>>>>> Stashed changes
+=======
+          image: 222575804024.dkr.ecr.us-east-1.amazonaws.com/rtc/tomcat-warimg:32
+=======
+          image: 222575804024.dkr.ecr.us-east-1.amazonaws.com/rtc/tomcat-warimg:32
+=======
+          image: 222575804024.dkr.ecr.us-east-1.amazonaws.com/rtc/tomcat-warimg:32
+>>>>>>> Stashed changes
+=======
+          image: 222575804024.dkr.ecr.us-east-1.amazonaws.com/rtc/tomcat-warimg:32
+>>>>>>> Stashed changes
+=======
+          image: 222575804024.dkr.ecr.us-east-1.amazonaws.com/rtc/tomcat-warimg:32
+=======
+          image: 222575804024.dkr.ecr.us-east-1.amazonaws.com/rtc/tomcat-warimg:32
+=======
+          image: 222575804024.dkr.ecr.us-east-1.amazonaws.com/rtc/tomcat-warimg:32
+>>>>>>> Stashed changes
+=======
+          image: 222575804024.dkr.ecr.us-east-1.amazonaws.com/rtc/tomcat-warimg:32
+>>>>>>> Stashed changes
+=======
+          image: 222575804024.dkr.ecr.us-east-1.amazonaws.com/rtc/tomcat-warimg:32
+=======
+          image: 222575804024.dkr.ecr.us-east-1.amazonaws.com/rtc/tomcat-warimg:32
+=======
+          image: 222575804024.dkr.ecr.us-east-1.amazonaws.com/rtc/tomcat-warimg:32
+>>>>>>> Stashed changes
+=======
+          image: 222575804024.dkr.ecr.us-east-1.amazonaws.com/rtc/tomcat-warimg:32
+>>>>>>> Stashed changes
+=======
+          image: 222575804024.dkr.ecr.us-east-1.amazonaws.com/rtc/tomcat-warimg:32
+>>>>>>> Stashed changes
+=======
+          image: 222575804024.dkr.ecr.us-east-1.amazonaws.com/rtc/tomcat-warimg:32
+=======
+          image: 222575804024.dkr.ecr.us-east-1.amazonaws.com/rtc/tomcat-warimg:32
+>>>>>>> Stashed changes
+=======
+          image: 222575804024.dkr.ecr.us-east-1.amazonaws.com/rtc/tomcat-warimg:32
+>>>>>>> Stashed changes
+=======
+          image: 222575804024.dkr.ecr.us-east-1.amazonaws.com/rtc/tomcat-warimg:32
+=======
+          image: 222575804024.dkr.ecr.us-east-1.amazonaws.com/rtc/tomcat-warimg:32
+=======
+          image: 222575804024.dkr.ecr.us-east-1.amazonaws.com/rtc/tomcat-warimg:32
+>>>>>>> Stashed changes
+=======
+          image: 222575804024.dkr.ecr.us-east-1.amazonaws.com/rtc/tomcat-warimg:32
+>>>>>>> Stashed changes
+=======
+          image: 222575804024.dkr.ecr.us-east-1.amazonaws.com/rtc/tomcat-warimg:32
 >>>>>>> Stashed changes
 >>>>>>> Stashed changes
 >>>>>>> Stashed changes
